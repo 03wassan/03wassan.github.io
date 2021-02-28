@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+main {
+    width: 100%;
+    height: 80%;
+    padding: 0.5em;
+}
+    main div img {
+        width: 128px;
+    }
+    main div h2 {
+        font-size: 20pt;
+    }
+    main div:first-child {
+        padding: 1em;
+    }
+    main div:nth-child(2) {
+        padding: 0;
+    }
+
