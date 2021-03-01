@@ -4,6 +4,7 @@ main {
     width: 600px;
     height: 600px;
     padding: 2em;
+    border-radius: 10px;
 }
     main div img {
         width: 150px;
