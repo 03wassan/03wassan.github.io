@@ -6,6 +6,9 @@ main {
     padding: 0.5em;
     border-radius: 0;
 }
+    main > div {
+        height: 333px;
+    }
     main div img {
         width: 128px;
     }
