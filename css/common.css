@@ -60,6 +60,8 @@ html {
             margin-top: 0.3em;
             border-bottom: 1px solid #ccc;
             padding-bottom: 0.3em;
+            font-family: 'Sacramento', cursive;
+            font-size: 32pt;
         }
 
         main div ul {

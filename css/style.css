@@ -9,9 +9,6 @@ main {
     main div img {
         width: 150px;
     }
-    main div h2 {
-        font-size: 25pt;
-    }
     main div:first-child {
         padding: 1.5em;
     }
