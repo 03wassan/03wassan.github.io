@@ -58,7 +58,7 @@ html {
         main div img {
             border-radius: 50%;
             box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
-            animation: rotate 128s linear 5s infinite;
+            animation: rotate 128s linear 0s infinite;
         }
 
         main div h2 {
