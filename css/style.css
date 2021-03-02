@@ -22,3 +22,7 @@ main {
         padding: 0 1em;
     }
 
+    main section#works #btn-close {
+        top: -15px;
+        right: -15px;
+    }

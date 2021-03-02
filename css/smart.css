@@ -29,3 +29,7 @@ main {
         width: 100%;
     }
 
+    main section#works #btn-close {
+        top: -25px;
+        right: 5px;
+    }

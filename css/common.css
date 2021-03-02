@@ -166,8 +166,6 @@ html {
     }
         main section#works #btn-close {
             position: absolute;
-            top: -15px;
-            right: -15px;
             width: 30px;
             height: 30px;
             padding: 0.5em;
