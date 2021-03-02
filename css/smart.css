@@ -6,16 +6,26 @@ main {
     padding: 0.5em;
     border-radius: 0;
 }
-    main > div {
+    main section#home {
         height: 333px;
     }
-    main div img {
+    main section#home div img {
         width: 128px;
     }
-    main div:first-child {
+    main section#home div:first-child {
         padding: 1em;
     }
-    main div:nth-child(2) {
+    main section#home div:nth-child(2) {
         padding: 0;
+    }
+
+    main section#works {
+        padding: 1em 0;
+    }
+    main section#works ul {
+        height: 80%;
+    }
+    main section#works li {
+        width: 100%;
     }
 

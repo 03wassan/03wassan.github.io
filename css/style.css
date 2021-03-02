@@ -6,19 +6,19 @@ main {
     padding: 2em;
     border-radius: 10px;
 }
-    main > div {
+    main section#home {
         height: 400px;
     }
-    main div img {
+    main section#home div img {
         width: 150px;
     }
-    main div h2 {
+    main section#home div h2 {
         font-size: 36pt;
     }
-    main div:first-child {
+    main section#home div:first-child {
         padding: 1.5em;
     }
-    main div:nth-child(2) {
+    main section#home div:nth-child(2) {
         padding: 0 1em;
     }
 
